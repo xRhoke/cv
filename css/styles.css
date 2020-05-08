@@ -1,0 +1,33 @@
+html {
+height: 100%;
+}
+body {
+height: 100%;
+margin: 0;
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-color: #111111;
+}
+hr {
+background-color: none;
+border-color: #e1d297;
+border-style: dotted none none none;
+border-width: 5px;
+height: 2px;
+width: 5%;
+}
+p {
+color: #969696;
+}
+ul, ol {
+color: #969696;
+}
+table {
+color: #969696;
+}
+h1, h2, h3 {
+color: #e1d297;
+}
+form {
+color: #e1d297;
+}
