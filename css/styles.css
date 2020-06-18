@@ -10,7 +10,7 @@ background-color: #111111;
 }
 hr {
 background-color: none;
-border-color: #e1d297;
+border-color: #94bbc2;
 border-style: dotted none none none;
 border-width: 5px;
 height: 2px;
@@ -26,8 +26,8 @@ table {
 color: #969696;
 }
 h1, h2, h3 {
-color: #e1d297;
+color: #94bbc2;
 }
 form {
-color: #e1d297;
+color: #969696;
 }
